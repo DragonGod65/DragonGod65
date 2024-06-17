@@ -1,5 +1,5 @@
-## Hi there 👋
 
+[![Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?title=Tech+Stack&lineCount=1&theme=catppuccin_macchiato&bg=%2324273a&badge=%231e2030&border=%236e738d&titleColor=%238bd5ca&line1=react%2Creact%2C58a6ff%3B)
 <!--
 **DragonGod65/DragonGod65** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
