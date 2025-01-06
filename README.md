@@ -1,46 +1,31 @@
 <p align="center"><img src="assets/elfilin_artwork.png" alt="drawing" width="200" align="center"/></p>
 <h1 align="center">DragonGod65</h1>
 
-
-  
 <!-- Links etc -->
 <div align="center">
-   <a href="https://codepen.io/DragonGod65">
-    <img src="assets/icons/codepen.svg" width="52" height="40" alt="Codepen Logo"/>
-  </a>
-  <img widht="12"/>
-  <a href="https://dragongod65.itch.io">
-    <img src="assets/icons/itch-io.svg" width="52" height="40" alt="Itch.io Logo"/>
-  </a>
-  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
-    <img src="assets/icons/discord.svg" width="52" height="40" alt="Discord Logo"/>
-  </a>
-  <a href="https://www.twitch.tv/dragongod6556">
-    <img src="assets/icons/twitch.svg" width="52" height="40" alt="Twitch Logo"/>
-  </a>
-  <a href="https://www.instagram.com/dev.dragongod65">
-    <img src="assets/icons/instagram.svg" width="52" height="40" alt="Instagram Logo"/>
-  </a>
-  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
-    <img src="assets/icons/youtube.svg" width="52" height="40" alt="Youtube Logo"/>
-  </a>
+    <img href="https://codepen.io/DragonGod65" src="assets/icons/codepen.svg" width="52" height="40" alt="Codepen Logo" />
+    <img href="https://dragongod65.itch.io" src="assets/icons/itch-io.svg" width="52" height="40" alt="Itch.io Logo"/>
+    <img href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" src="assets/icons/discord.svg" width="52" height="40" alt="Discord Logo"/>
+    <img href="https://www.twitch.tv/dragongod6556" src="assets/icons/twitch.svg" width="52" height="40" alt="Twitch Logo"/>
+    <img href="https://www.instagram.com/dev.dragongod65" src="assets/icons/instagram.svg" width="52" height="40" alt="Instagram Logo"/>
+    <img href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" src="assets/icons/youtube.svg" width="52" height="40" alt="Youtube Logo"/>
 </div>
 
 ## 📫 Contact Info
-- Email: [mail@gmail.com](mailto:mail@gmail.com)
-- Discord: `dragongod65`
+- **Email:** [mail@gmail.com](mailto:mail@gmail.com)
+- **Discord:** `dragongod65`
 
-### 
-<!---->
-
-## 💼 Some Informations
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
-
+## 👋 About me
+<p align="left">
+  ✨ Creating bugs since ...<br>
+  📚 I'm currently learning ...<br>
+  🎯 Goals: ...<br>
+  🎲 Fun fact: ...</p>
 
 ###
-<!---->
-## 💼 Projects
 
+<!-- Relevant Projects & Works-->
+## 💼 Projects
 
 
 
