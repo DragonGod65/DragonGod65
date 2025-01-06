@@ -6,22 +6,23 @@
 <!-- Links etc -->
 <div align="center">
    <a href="https://codepen.io/DragonGod65">
-    <img src="assets/font-awesome/codepen-brands-solid.svg" alt="Discord Logo"/>
+    <img src="assets/icons/codepen.svg" width="52" height="40" alt="Codepen Logo"/>
   </a>
+  <img widht="12"/>
   <a href="https://dragongod65.itch.io">
-    <img src="assets/font-awesome/itch-io-brands-solid.svg" alt="Discord Logo"/>
+    <img src="assets/icons/itch-io.svg" width="52" height="40" alt="Itch.io Logo"/>
   </a>
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
-    <img src="assets/font-awesome/discord-brands-solid.svg" alt="Discord Logo"/>
+    <img src="assets/icons/discord.svg" width="52" height="40" alt="Discord Logo"/>
   </a>
   <a href="https://www.twitch.tv/dragongod6556">
-    <img src="assets/font-awesome/twitch-brands-solid.svg" alt="Twitch Logo"/>
+    <img src="assets/icons/twitch.svg" width="52" height="40" alt="Twitch Logo"/>
   </a>
   <a href="https://www.instagram.com/dev.dragongod65">
-    <img src="assets/font-awesome/instagram-brands-solid.svg" alt="Discord Logo"/>
+    <img src="assets/icons/instagram.svg" width="52" height="40" alt="Instagram Logo"/>
   </a>
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
-    <img src="assets/font-awesome/youtube-brands-solid.svg" alt="Discord Logo"/>
+    <img src="assets/icons/youtube.svg" width="52" height="40" alt="Youtube Logo"/>
   </a>
 </div>
 
