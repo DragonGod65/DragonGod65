@@ -1,7 +1,9 @@
+<!-- Will be Replaced in the Future with a Banner -->
+
 <p align="center"><img src="assets/elfilin_artwork.png" alt="drawing" width="200" align="center"/></p>
 <h1 align="center">DragonGod65</h1>
 
-<!-- Links etc -->
+<!-- Links need to be changed -->
 <div align="center">
     <img href="https://codepen.io/DragonGod65" src="assets/icons/codepen.svg" width="52" height="40" alt="Codepen Logo" />
     <img href="https://dragongod65.itch.io" src="assets/icons/itch-io.svg" width="52" height="40" alt="Itch.io Logo"/>
@@ -31,25 +33,28 @@
 
 ###
 <!-- Tools etc -->
-## 🛠️ Languages, Frameworks and Tools
+## 📓 Languages, Frameworks and Tools
+#### 📜 Languages
 <div align="left">
-  <div> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-    <p>Something About it</p>
-  </div>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+    <img src="assets/devicon/languages/csharp" height="40" alt="C# Logo"/>
+    <img width="12" />
+    <img src="assets/devicon/languages/java" height="40" alt="Java Logo"/>
+
+</div>
+
+#### ⚙️ Frameworks & Engines
+<div align="left">
+    <img src="assets/devicon/frames/unity" height="40" alt="Unity logo"/>
+    <img width="12" />
+    <img src="assets/devicon/frames/unreal-engine" height="40" alt="Unreal Engine logo"/>
+    <img width="12" />
+    <img src="assets/devicon/frames/godot" height="40" alt="Godot logo"/>
+</div>
+
+#### 🛠️ Tools
+<div align="left">
+    <img src="assets/devicon/tools/threedsmax" height="40" alt="3ds Max Logo"/>
+    <img width="12" />
+    <img src="assets/devicon/tools/blender" height="40" alt="Blender Logo"/>
 </div>
 
