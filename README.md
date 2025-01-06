@@ -5,7 +5,9 @@
 
 <!-- Links need to be changed -->
 <div align="center">
-    <img href="https://codepen.io/DragonGod65" src="assets/icons/codepen.svg" width="52" height="40" alt="Codepen Logo" />
+    <a href="https://codepen.io/DragonGod65">
+        <img src="assets/icons/codepen.svg" width="52" height="40" alt="Codepen Logo" />
+    </a>
     <img href="https://dragongod65.itch.io" src="assets/icons/itch-io.svg" width="52" height="40" alt="Itch.io Logo"/>
     <img href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" src="assets/icons/discord.svg" width="52" height="40" alt="Discord Logo"/>
     <img href="https://www.twitch.tv/dragongod6556" src="assets/icons/twitch.svg" width="52" height="40" alt="Twitch Logo"/>
