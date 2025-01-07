@@ -24,12 +24,6 @@
     </a>
 </div>
 
-
-## 📫 Contact Info
-- **Email:** [dev.dragongod65@gmail.com](mailto:dev.dragongod65@gmail.com)
-- **Discord:** `dragongod65`
-<br>
-
 ## 👋 About me
 <p align="left">
   <!--✨ Creating bugs since ...<br>
