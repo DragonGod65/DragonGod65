@@ -19,7 +19,7 @@
     <a href="https://www.instagram.com/dev.dragongod65">
         <img src="assets/icons/instagram.svg" width="52" height="40" alt="Instagram Logo"/>
     </a>
-    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+    <a href="https://www.youtube.com/@DragonGod65">
         <img src="assets/icons/youtube.svg" width="52" height="40" alt="Youtube Logo"/>
     </a>
 </div>
@@ -57,6 +57,8 @@
     <img src="assets/devicons/languages/java-original.svg" height="40" alt="Java Logo"/>
     <img width="12" />
     <img src="assets/devicons/languages/kotlin-original.svg" height="40" alt="Kotlin Logo"/>
+    <img widht="12" />
+    <img src="assets/devicons/languages/typescript-original.svg" height="40" alt="Typescript Logo"/>
 </div>
 
 ### ⚙️ Frameworks & Engines
@@ -74,6 +76,8 @@
     <img src="assets/devicons/frames/vulkan.svg" height="40" alt="Vulkan Logo"/>
     <img width="12" />
     <img src="assets/devicons/frames/hblauncher-loader-banner.png" height="40" alt="Homebrew Logo"/>
+    <img width="12" />
+    <img src="assets/devicons/frames/astro-original.svg" height="40" alt="Astro Logo"/>
 </div>
 
 ### 🛠️ Tools
