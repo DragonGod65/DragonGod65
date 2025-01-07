@@ -45,38 +45,40 @@
 ## 📓 Languages, Frameworks and Tools
 ### 📜 Languages
 <div align="left">
-    <img src="assets/devicon/languages/csharp-original.svg" height="40" alt="C# Logo"/>
+    <img src="assets/devicons/languages/csharp-original.svg" height="40" alt="C# Logo"/>
     <img width="12" />
-    <img src="assets/devicon/languages/cplusplus-original.svg" height="40" alt="C++ Logo"/>
+    <img src="assets/devicons/languages/cplusplus-original.svg" height="40" alt="C++ Logo"/>
     <img width="12" />
-    <img src="assets/devicon/languages/c-original.svg" height="40" alt="C Logo"/>
+    <img src="assets/devicons/languages/c-original.svg" height="40" alt="C Logo"/>
     <img width="12" />
-    <img src="assets/devicon/languages/java-original.svg" height="40" alt="Java Logo"/>
+    <img src="assets/devicons/languages/java-original.svg" height="40" alt="Java Logo"/>
     <img width="12" />
-    <img src="assets/devicon/languages/kotlin-original.svg" height="40" alt="Kotlin Logo"/>
+    <img src="assets/devicons/languages/kotlin-original.svg" height="40" alt="Kotlin Logo"/>
 </div>
 
 ### ⚙️ Frameworks & Engines
 <div align="left">
-    <img src="assets/devicon/frames/unity-original.svg" height="40" alt="Unity Logo"/>
+    <img src="assets/devicons/frames/unity-original.svg" height="40" alt="Unity Logo"/>
     <img width="12" />
-    <img src="assets/devicon/frames/unrealengine-original-wordmark.svg" height="40" alt="Unreal Engine Logo"/>
+    <!--
+    <img src="assets/devicons/frames/unrealengine-original-wordmark.svg" height="40" alt="Unreal Engine Logo"/>
     <img width="12" />
-    <img src="assets/devicon/frames/godot-original.svg" height="40" alt="Godot Logo"/>
+    -->
+    <img src="assets/devicons/frames/godot-original.svg" height="40" alt="Godot Logo"/>
     <img width="12" />
-    <img src="assets/devicon/frames/opengl-plain.svg" height="40" alt="OpenGL Logo"/>
+    <img src="assets/devicons/frames/opengl-plain.svg" height="40" alt="OpenGL Logo"/>
     <img width="12" />
-    <img src="assets/devicon/frames/vulkan.svg" height="40" alt="Vulkan Logo"/>
+    <img src="assets/devicons/frames/vulkan.svg" height="40" alt="Vulkan Logo"/>
     <img width="12" />
-    <img src="assets/devicon/frames/hblauncher-loader-banner.png" height="40" alt="Homebrew Logo"/>
+    <img src="assets/devicons/frames/hblauncher-loader-banner.png" height="40" alt="Homebrew Logo"/>
 </div>
 
 ### 🛠️ Tools
 <div align="left">
-    <img src="assets/devicon/tools/threedsmax-original.svg" height="40" alt="3ds Max Logo"/>
+    <img src="assets/devicons/tools/threedsmax-original.svg" height="40" alt="3ds Max Logo"/>
     <img width="12" />
-    <img src="assets/devicon/tools/blender-original.svg" height="40" alt="Blender Logo"/>
+    <img src="assets/devicons/tools/blender-original.svg" height="40" alt="Blender Logo"/>
     <img width="12" />
-    <img src="assets/devicon/tools/androidstudio-plain.svg" height="40" alt="Android Studio Logo"/>
+    <img src="assets/devicons/tools/androidstudio-plain.svg" height="40" alt="Android Studio Logo"/>
 </div>
 
