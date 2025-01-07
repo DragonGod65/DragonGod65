@@ -1,9 +1,8 @@
 <!-- Will be Replaced in the Future with a Banner -->
-
 <p align="center"><img src="assets/elfilin_artwork.png" alt="drawing" width="200" align="center"/></p>
 <h1 align="center">DragonGod65</h1>
 
-<!-- Links need to be changed -->
+<!-- Links need to be changed to appear better -->
 <div align="center">
     <a href="https://codepen.io/DragonGod65">
         <img src="assets/icons/codepen.svg" width="52" height="40" alt="Codepen Logo" />
@@ -25,21 +24,25 @@
     </a>
 </div>
 
+
 ## 📫 Contact Info
-- **Email:** [mail@gmail.com](mailto:mail@gmail.com)
+- **Email:** [dev.dragongod65@gmail.com](mailto:dev.dragongod65@gmail.com)
 - **Discord:** `dragongod65`
+<br>
 
 ## 👋 About me
 <p align="left">
-  ✨ Creating bugs since ...<br>
+  <!--✨ Creating bugs since ...<br>
   📚 I'm currently learning ...<br>
   🎯 Goals: ...<br>
-  🎲 Fun fact: ...</p>
-
+  🎲 Fun fact: ...-->
+</p>
+<br>
 
 <!-- Relevant Projects & Works-->
 ## 💼 Projects
 
+<br>
 
 <!-- Tools etc -->
 ## 📓 Languages, Frameworks and Tools
