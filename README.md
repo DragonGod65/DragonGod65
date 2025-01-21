@@ -1,6 +1,5 @@
 <!-- Will be Replaced in the Future with a Banner -->
 <p align="center"><img src="assets/elfilin_artwork.png" alt="drawing" width="200" align="center"/></p>
-<h1 align="center">DragonGod65</h1>
 
 <!-- Links need to be changed to appear better -->
 <div align="center">
