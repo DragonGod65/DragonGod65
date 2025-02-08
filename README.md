@@ -1,27 +1,22 @@
-<!-- Will be Replaced in the Future with a Banner -->
-<p align="center"><img src="assets/elfilin_artwork.png" alt="drawing" width="200" align="center"/></p>
 
-<!-- Links need to be changed to appear better -->
+<!-- Will be Replaced in the Future with a Banner -->
 <div align="center">
-    <a href="https://codepen.io/DragonGod65">
-        <img src="assets/icons/codepen.svg" width="52" height="40" alt="Codepen Logo" />
-    </a>
-    <a href="https://dragongod65.itch.io">
-        <img src="assets/icons/itch-io.svg" width="52" height="40" alt="Itch.io Logo"/>
-    </a>
-    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
-        <img src="assets/icons/discord.svg" width="52" height="40" alt="Discord Logo"/>
-    </a>
-    <a href="https://www.twitch.tv/dragongod6556">
-        <img src="assets/icons/twitch.svg" width="52" height="40" alt="Twitch Logo"/>
-    </a>
-    <a href="https://www.instagram.com/dev.dragongod65">
-        <img src="assets/icons/instagram.svg" width="52" height="40" alt="Instagram Logo"/>
-    </a>
-    <a href="https://www.youtube.com/@DragonGod65">
-        <img src="assets/icons/youtube.svg" width="52" height="40" alt="Youtube Logo"/>
-    </a>
+    <img src="assets/elfilin_artwork.png" alt="drawing" width="200" height="200" align="center"/>
 </div>
+
+<h1 align="center">Wyvern</h1>
+<p align="center">Casual Developer</p>
+
+<p align="center">
+    <img alt="Itch.io" src="https://img.shields.io/badge/ItchIO-Wyvern?style=for-the-badge&logo=itch.io&logoColor=fa5c5c&labelColor=white&color=fa5c5c&link=https%3A%2F%2Fdragongod65.itch.io">
+    <img alt="Codepen" src="https://img.shields.io/badge/Codepen-Wyvern?style=for-the-badge&logo=codepen&logoColor=black&labelColor=white&color=black&link=%22https%3A%2F%2Fcodepen.io%2FDragonGod65">
+    <img alt="Twitch" src="https://img.shields.io/badge/Twitch-Wyvern?style=for-the-badge&logo=twitch&logoColor=a970ff&labelColor=white&color=a970ff&link=https%3A%2F%2Fwww.twitch.tv%2Fdragongod6556">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-Wyvern?style=for-the-badge&logo=instagram&logoColor=ff00c7&labelColor=white&color=ff00c7&link=https%3A%2F%2Fwww.instagram.com%2Fdev.dragongod65">
+    <img alt="Discord" src="https://img.shields.io/badge/Discord-Wyvern?style=for-the-badge&logo=discord&logoColor=5662f6&labelColor=white&color=5662f6&link=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DdQw4w9WgXcQ">
+    <img alt="YouTube" src="https://img.shields.io/badge/YouTube-Wyvern?style=for-the-badge&logo=youtube&logoColor=ff0808&labelColor=white&color=ff0808&link=https%3A%2F%2Fwww.youtube.com%2F%40DragonGod65">
+</p>
+
+<hr>
 
 ## 👋 About me
 <p align="left">
@@ -37,43 +32,50 @@
 
 <br>
 
+<hr>
 <!-- Tools etc -->
-## 📓 Languages, Frameworks and Tools
-### 📜 Languages
+<h2>📓 Languages & Skills</h2>
+<h3 style="margin-bottom: 34px">📜 Languages</h3>
 <div align="left">
-    <img src="assets/devicons/languages/csharp-original.svg" height="40" alt="C# Logo"/>
-    <img width="12" />
-    <img src="assets/devicons/languages/cplusplus-original.svg" height="40" alt="C++ Logo"/>
-    <img width="12" />
-    <img src="assets/devicons/languages/c-original.svg" height="40" alt="C Logo"/>
-    <img width="12" />
-    <img src="assets/devicons/languages/java-original.svg" height="40" alt="Java Logo"/>
-    <img width="12" />
-    <img src="assets/devicons/languages/kotlin-original.svg" height="40" alt="Kotlin Logo"/>
-    <img widht="12" />
-    <img src="assets/devicons/languages/typescript-original.svg" height="40" alt="Typescript Logo"/>
+    <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="60" height="60" alt="C#" style="margin: 8px" />
+    </a>
+    <a href="https://cplusplus.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="60" height="60" alt="C++" style="margin: 8px" />
+    </a>
+    <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="60" height="60" alt="C" style="margin: 8px" />
+    </a>
+    <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="60" height="60" alt="Java" style="margin: 8px" />
+    </a>
+    <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="60" height="60" alt="Kotlin" style="margin: 8px" />
+    </a>
+    <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="60" height="60" alt="Typescript" style="margin: 8px" />
+    </a>
 </div>
+<br>
 
-### ⚙️ Frameworks & Engines
+<h3 style="margin-bottom: 34px"> ⚙️ Frameworks & Engines </h3>
 <div align="left">
-    <img src="assets/devicons/frames/unity-original.svg" height="40" alt="Unity Logo"/>
-    <img width="12" />
-    <!--
-    <img src="assets/devicons/frames/unrealengine-original-wordmark.svg" height="40" alt="Unreal Engine Logo"/>
-    <img width="12" />
-    -->
-    <img src="assets/devicons/frames/godot-original.svg" height="40" alt="Godot Logo"/>
-    <img width="12" />
-    <img src="assets/devicons/frames/opengl-plain.svg" height="40" alt="OpenGL Logo"/>
-    <img width="12" />
-    <img src="assets/devicons/frames/vulkan.svg" height="40" alt="Vulkan Logo"/>
-    <img width="12" />
-    <img src="assets/devicons/frames/hblauncher-loader-banner.png" height="40" alt="Homebrew Logo"/>
-    <img width="12" />
-    <img src="assets/devicons/frames/astro-original.svg" height="40" alt="Astro Logo"/>
+    <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
+        <img src="assets/devicons/frames/unity-original.svg" width="60" height="60" alt="Kotlin" style="margin: 8px" />
+    </a>
+    <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
+        <img src="assets/devicons/frames/godot-original.svg" width="60" height="60" alt="Kotlin" style="margin: 8px" />
+    </a>
+    <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
+        <img src="assets/devicons/frames/vulkan.svg" width="auto" height="60" alt="Vulkan" style="margin: 8px" />
+    </a>
+    <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
+        <img src="assets/devicons/frames/hblauncher-loader-banner.png" width="auto" height="60" alt="Homebrew Launcher" style="margin: 8px" />
+    </a>
 </div>
+<br>
 
-### 🛠️ Tools
+<h3 style="margin-bottom: 34px">🛠️ Tools</h3>
 <div align="left">
     <img src="assets/devicons/tools/threedsmax-original.svg" height="40" alt="3ds Max Logo"/>
     <img width="12" />
