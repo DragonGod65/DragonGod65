@@ -8,7 +8,9 @@
 <p align="center">Casual Developer</p>
 
 <p align="center">
-    <img alt="Itch.io" src="https://img.shields.io/badge/ItchIO-Wyvern?style=for-the-badge&logo=itch.io&logoColor=fa5c5c&labelColor=white&color=fa5c5c&link=https%3A%2F%2Fdragongod65.itch.io">
+    <a href="https://dragongod65.itch.io/">
+        <img alt="Itch.io" src="https://img.shields.io/badge/ItchIO-Wyvern?style=for-the-badge&logo=itch.io&logoColor=fa5c5c&labelColor=white&color=fa5c5c&link=https%3A%2F%2Fdragongod65.itch.io">
+    </a>
     <img alt="Codepen" src="https://img.shields.io/badge/Codepen-Wyvern?style=for-the-badge&logo=codepen&logoColor=black&labelColor=white&color=black&link=%22https%3A%2F%2Fcodepen.io%2FDragonGod65">
     <img alt="Twitch" src="https://img.shields.io/badge/Twitch-Wyvern?style=for-the-badge&logo=twitch&logoColor=a970ff&labelColor=white&color=a970ff&link=https%3A%2F%2Fwww.twitch.tv%2Fdragongod6556">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-Wyvern?style=for-the-badge&logo=instagram&logoColor=ff00c7&labelColor=white&color=ff00c7&link=https%3A%2F%2Fwww.instagram.com%2Fdev.dragongod65">
