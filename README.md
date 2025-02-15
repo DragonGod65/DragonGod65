@@ -23,7 +23,7 @@
     <a href="https://www.discord.com">
     <img alt="Discord" src="https://img.shields.io/badge/Discord-Wyvern?style=for-the-badge&logo=discord&logoColor=5662f6&labelColor=white&color=5662f6&link=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DdQw4w9WgXcQ">
     </a>
-    <a href="https://www.youtube.com/DragonGod65">
+    <a href="https://www.youtube.com/@DragonGod65">
     <img alt="YouTube" src="https://img.shields.io/badge/YouTube-Wyvern?style=for-the-badge&logo=youtube&logoColor=ff0808&labelColor=white&color=ff0808&link=https%3A%2F%2Fwww.youtube.com%2F%40DragonGod65">
     </a>
 </p>
