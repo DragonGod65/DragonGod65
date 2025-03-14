@@ -1,5 +1,5 @@
 
-<!-- Will be Replaced in the Future with a Banner -->
+<!------ <!-- Will be Replaced in the Future with a Banner -->
 <div align="center">
     <img src="assets/elfilin_artwork.png" alt="drawing" width="200" height="200" align="center"/>
 </div>
@@ -96,3 +96,4 @@
     <img src="assets/devicons/tools/androidstudio-plain.svg" height="40" alt="Android Studio Logo"/>
 </div>
 
+------>
